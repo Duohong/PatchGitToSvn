@@ -1,5 +1,5 @@
 # get SvnRevision first
-SvnRevision=${git svn find-rev $(git rev-parse head))}
+SvnRevision=$(git svn find-rev $(git rev-parse head))
 #echo "${SvnRevision}"
 # --cached for staged files
 # with prefix to sure
