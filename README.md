@@ -1,6 +1,6 @@
 # PatchGitToSvn
 
-This project contains three ways to create the patch file as patch.diff.svn.
+This project contains three ways to create a patch file from Git-Svn repository as patch.diff.svn.
 
 ## 1. PowerShell
 ![Image Run SvnPatch.ps1](/img/SvnPatchPs1.png)
