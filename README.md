@@ -15,11 +15,11 @@ Setup Custom Action
 Call Custom Action
 ![Image Call Custom Action](/img/SourceTreeCallCustomAction.png)
 
-## Notes
+### Notes
 Software|Vesion
 --------|------
 Remote SVN server|v1.6.0
 OS|Windows 7 Pro
-PowerShell|v
+PowerShell|v2.0
 Local Git|v2.6.0.windows.1
 Local SourceTree|v1.6.23.0
