@@ -9,13 +9,13 @@ This project contains three ways to create a patch file from Git-Svn repository 
 ![Image Run SvnPatch.cmd](/img/SvnPatchCmd.png)
 
 ## 3. SourceTree Custom Action
-Setup Custom Action
+Setup Custom Action <br />
 ![Image Setup Custom Action](/img/SourceTreeSetupCustomAction.png)
 
-Call Custom Action
+Call Custom Action <br />
 ![Image Call Custom Action](/img/SourceTreeCallCustomAction.png)
 
-### Notes
+#### Notes
 Software|Vesion
 --------|------
 Remote SVN server|v1.6.0
