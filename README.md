@@ -15,6 +15,9 @@ Setup Custom Action <br />
 Call Custom Action <br />
 ![Image Call Custom Action](/img/SourceTreeCallCustomAction.png)
 
+Setup Custom Action To Display SVN Last Commit Log Message <br />
+![Image Setup Custom Action To Display SVN Last Commit Log Message](/img/SVNLastCommitLog.png)
+
 #### Notes
 Software|Version Case 1|Version Case 2
 --------|--------------|--------------
